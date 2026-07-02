@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Bastien Goulet
+N:Goulet;Bastien;;;
+TITLE:Chargé d'affaires
+ORG:SNM
+TEL;TYPE=WORK,VOICE:+33621847170
+TEL;TYPE=CELL,VOICE:+33231344307
+EMAIL;TYPE=WORK:b.goulet2@snm14.fr
+ADR;TYPE=WORK:;;275 rue Verte - Parc d'activités Les Rives de l'Odon;Mouen;;14790;France
+URL:https://www.snm14.fr
+END:VCARD
