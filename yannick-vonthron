@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Yannick Vonthron
+N:Vonthron;Yannick;;;
+TITLE:Chargé d'affaires
+ORG:SNM
+TEL;TYPE=WORK,VOICE:+33231344307
+TEL;TYPE=CELL,VOICE:+33771895603
+EMAIL;TYPE=WORK:y.vonthron@snm14.fr
+ADR;TYPE=WORK:;;275 rue Verte - Parc d'activités Les Rives de l'Odon;Mouen;;14790;France
+URL:https://www.snm14.fr
+END:VCARD
