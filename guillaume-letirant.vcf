@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Guillaume Le Tirant
-N:Le Tirant;Guillaume;;;
+FN:Guillaume Letirant
+N:Letirant;Guillaume;;;
 TITLE:Président
 ORG:SNM
 TEL;TYPE=WORK,VOICE:+33231344307
-TEL;TYPE=CELL,VOICE:+33781512190
+TEL;TYPE=CELL,VOICE:+33231344307
 EMAIL;TYPE=WORK:g.letirant@snm14.fr
 ADR;TYPE=WORK:;;275 rue Verte - Parc d'activités Les Rives de l'Odon;Mouen;;14790;France
 URL:https://www.snm14.fr
