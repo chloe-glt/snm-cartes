@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Kyllian Hervouet
+N:Hervouet;Kyllian;;;
+TITLE:Chargé d'affaires
+ORG:SNM
+TEL;TYPE=WORK,VOICE:+33231344307
+TEL;TYPE=CELL,VOICE:+33632736869
+EMAIL;TYPE=WORK:k.hervouet@snm14.fr
+ADR;TYPE=WORK:;;275 rue Verte - Parc d'activités Les Rives de l'Odon;Mouen;;14790;France
+URL:https://www.snm14.fr
+END:VCARD
